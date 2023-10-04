@@ -1,3 +1,4 @@
+The background color is `#ffffff`
 ## HOLA, SOY MAYRA FRIAS!
 Actualmente curso el segundo año de la Tec. en Redes y Operaciones Informáticas en la Universidad de Hurlingham y finalicé JavaScript dentro de la carrera de Desarrollo FullStack en CoderHouse.
 
