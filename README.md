@@ -1,5 +1,5 @@
 ## HOLA, SOY MAYRA FRIAS!
-Actualmente soy estudiante de segundo año de la Tec. en Redes y Operaciones Informáticas en la Universidad de Hurlingham y estudiante de Desarrollo FullStack en CoderHouse.
+Actualmente curso el segundo año de la Tec. en Redes y Operaciones Informáticas en la Universidad de Hurlingham y finalicé JavaScript dentro de la carrera de Desarrollo FullStack en CoderHouse.
 
 ### **Tecnologías**
 <div stye="margin-right: 3px;">
