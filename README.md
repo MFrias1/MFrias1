@@ -5,9 +5,8 @@ Actualmente soy estudiante de segundo año de la Tec. en Redes y Operaciones Inf
 <div>
    <img height=100px src="https://github.com/MFrias1/MFrias1/issues/1#issue-1926502181"/>
 </div>
-- HTML
 - CSS
-   - **Preprocesador:**
+   - Preprocesador:
        - Sass
 - JAVASCRIPT
 
