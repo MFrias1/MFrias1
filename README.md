@@ -3,7 +3,7 @@ Actualmente soy estudiante de segundo año de la Tec. en Redes y Operaciones Inf
 
 ### **Tecnologías**
 <div>
-   <img height=50px src=#>
+   <img height=50px src="https://github.com/MFrias1/MFrias1/issues/1#issue-1926502181">
 </div>
 - HTML
 - CSS
