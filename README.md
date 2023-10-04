@@ -4,6 +4,11 @@ Actualmente soy estudiante de segundo año de la Tec. en Redes y Operaciones Inf
 ### **Tecnologías**
 - HTML
 - CSS
+  > Preprocesador:
+    - SASS
+  > Framework:
+    - Bootstrap
 - JAVASCRIPT
+  
 
 
