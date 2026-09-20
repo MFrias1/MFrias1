@@ -1,5 +1,5 @@
 ## HOLA, SOY MAYRA FRIAS!
-Actualmente me encuentro en el segundo año de la Tec. en Redes y Operaciones Informáticas en la Universidad Nacional de Hurlingham y finalicé el curso de ReactJS dentro de la carrera de Desarrollo FullStack en CoderHouse.
+Actualmente estoy finalizando la Tec. en Redes y Operaciones Informáticas en la Universidad Nacional de Hurlingham y realicé el curso de Desarrollo Frontend en CoderHouse.
 
 ### **Tecnologías**
 <div stye="margin-right: 3px;">
