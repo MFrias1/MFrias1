@@ -1,5 +1,5 @@
-## HOLA, SOY MAYRA FRIAS!
-Actualmente estoy finalizando la Tec. en Redes y Operaciones Informáticas en la Universidad Nacional de Hurlingham y realicé el curso de Desarrollo Frontend en CoderHouse.
+## HOLA!
+Desarrolladora Frontend finalizando la Tec. en Redes y Operaciones Informáticas
 
 ### **Tecnologías**
 <div stye="margin-right: 3px;">
